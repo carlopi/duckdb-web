@@ -3,6 +3,7 @@ layout: docu
 title: CSV Loading
 redirect_from:
   - /docs/data/csv
+  - /docs/data/csv/
 ---
 
 ### Examples

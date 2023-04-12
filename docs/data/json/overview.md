@@ -3,6 +3,7 @@ layout: docu
 title: JSON Loading
 redirect_from:
   - /docs/data/json
+  - /docs/data/json/
 ---
 
 ### Examples
