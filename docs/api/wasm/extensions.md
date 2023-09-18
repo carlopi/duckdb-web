@@ -34,7 +34,7 @@ Autoloading, so the possibility for DuckDB to add extension functionality on-the
 | [json](../../extensions/json)                                                                                                           | Adds support for JSON operations                                                   |                 |
 | parquet                                                                                                                | Adds support for reading and writing parquet files                                 |                 |
 | [sqlite_scanner](../../extensions/sqlite_scanner) [<span class="git">GitHub</span>](https://github.com/duckdblabs/sqlite_scanner)       | Adds support for reading SQLite database files                                     | sqlite, sqlite3 |
-| sqlsmit      |  | |
+| sqlsmith      |  | |
 | [substrait](../../extensions/substrait) [<span class="git">GitHub</span>](https://github.com/duckdblabs/substrait)                      | Adds support for the Substrait integration                                         |                 |
 | tpcds                                                                                                                  | Adds TPC-DS data generation and query support                                      |                 |
 | tpch                                                                                                                   | Adds TPC-H data generation and query support                                       |                 |
