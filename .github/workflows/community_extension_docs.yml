@@ -7,7 +7,7 @@ on:
 
 jobs:
   generate_docs:
-    uses: duckdb/community_extensions/.github/workflows/generate_docs.yml
+    uses: duckdb/community_extensions/.github/workflows/generate_docs.yml@main
 
   deploy_docs:
     needs:
